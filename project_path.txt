@@ -1,3 +1,5 @@
 D:\project\navigation\
 D:\project\MyJangHu\MyJangHu\
 D:\project\my-blog\
+D:\project\scheduledTasks\
+D:\project\love-source\
