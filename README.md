@@ -49,13 +49,13 @@ pause
 ### 复制脚本
 
 将脚本[auto_push.bat](auto_push.bat)和[auto_push_before.bat](auto_push_before.bat)复制到自己项目路径下（和.git同一个层级）
-![img.png](img/img2.png)
+![img/img2.png](img/img2.png)
 
 ### 添加项目地址
 
 将你的项目地址添加到[project_path.txt](project_path.txt)中（必须\结尾，每个项目必须换行）
 
-![img.png](img/img3.png)
+![img/img3.png](img/img3.png)
 
 ### 运行脚本测试
 
